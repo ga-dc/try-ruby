@@ -1,5 +1,7 @@
 # Try Ruby
 
+## Instructions
+
 Go through the first three levels of [Try Ruby](http://tryruby.org/levels/1/challenges/0).
 
 ## Deliverables
